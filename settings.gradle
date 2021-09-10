@@ -1,0 +1,10 @@
+//dependencyResolutionManagement {
+//    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+//    repositories {
+//        google()
+//        mavenCentral()
+//        maven { url "jitpack.io" }
+//    }
+//}
+rootProject.name = "Mvvm"
+include ':app'
